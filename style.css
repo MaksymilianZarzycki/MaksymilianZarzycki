@@ -5,8 +5,7 @@ border: 1px solid;
 }
 main {
 margin: 10px;
-  width 2000px;
-overflow-x: scroll
+overflow-x: scroll;
 }
 nav{
 border: 1px solid;
