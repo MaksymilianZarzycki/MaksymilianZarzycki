@@ -5,11 +5,11 @@ border: 1px solid;
 }
 main {
 margin: 10px;
+overflow-x: scroll
 }
 nav{
 border: 1px solid;
-width: 10%;
-min-width: 120px;
+width: 190px;
 height: 880px;
 }
 nav, main {float: left;}
