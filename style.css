@@ -1,29 +1,38 @@
 
 h1
 {
+background: grey;
 border: 1px solid;
-background: silver;
-padding-left: 10px
+padding-left: 210px;
+margin-top: 0px;
 }
-
 body{
-
+	background: silver;
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding: 0px;
+	height: auto;
 }
-
 header{
-
+	padding: 10px;
 }
 
 main {
-min-height: 91%;
+
+height: auto;
+min-height: 200px;
 padding-left: 10px;
 }
 nav{
-min-height: 91%;
-background: silver;
-border: 1px solid;
+background: grey;
+border-right: 1px solid;
+border-left: 1px solid;
+height: 100vh;
+min-height: 200px;
 padding-left: 10px;
 width: 190px;
 
 }
+
 nav, main {float: left;}
