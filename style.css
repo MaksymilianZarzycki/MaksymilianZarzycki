@@ -15,11 +15,11 @@ header{
 }
 
 main {
-height: 91%;
+min-height: 91%;
 padding-left: 10px;
 }
 nav{
-height: 91%;
+min-height: 91%;
 background: silver;
 border: 1px solid;
 padding-left: 10px;
