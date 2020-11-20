@@ -2,6 +2,8 @@
 h1
 {
 border: 1px solid;
+background: silver;
+padding-left: 10px
 }
 
 body{
@@ -9,7 +11,7 @@ body{
 }
 
 header{
-padding-left: 10px;
+
 }
 
 main {
@@ -17,6 +19,7 @@ padding-left: 10px;
 height: 91%;
 }
 nav{
+background: silver;
 border: 1px solid;
 padding-left: 10px;
 width: 190px;
