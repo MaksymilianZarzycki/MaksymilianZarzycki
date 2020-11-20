@@ -16,7 +16,7 @@ body{
 }
 header{
 	padding: 10px;
-	border-bottom: 1px solid;
+	background: white;
 }
 
 main {
